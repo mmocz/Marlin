@@ -730,7 +730,7 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 90.04, 90.43, 401.23, 814.41 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.83, 81.16, 400.46, 814.41 }
 
 /**
  * Default Max Feed Rate (mm/s)
